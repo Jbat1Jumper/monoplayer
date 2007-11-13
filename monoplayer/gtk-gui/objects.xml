@@ -1,0 +1,10 @@
+<objects>
+  <object type="Monoplayer.windows.player.buttons" palette-category="Monoplayer" allow-children="false" base-type="Gtk.Bin">
+    <itemgroups />
+    <signals />
+  </object>
+  <object type="Monoplayer.windows.player.list_view" palette-category="Monoplayer" allow-children="false" base-type="Gtk.Bin">
+    <itemgroups />
+    <signals />
+  </object>
+</objects>
